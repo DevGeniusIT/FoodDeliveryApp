@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chatbotfoodapp-ht9l",
+  "private_key_id": "762b7cf1d6fe9b483eea46aecff4a8b8b3d788ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC41M5y9fc5kDBK\nmMdegBzYsgE+nI4KZw5kt7XCUURwWdaeBx8ldbFNiNGTyWTs+wjFFZ6Kwi2jqvaW\n9O8yBphT1ptK1cqUuBC7wCuFDnDoXnuYwfrNVGJnCaoxKHoSQBYmxdw020ouB5rd\nY2iItx4wk/rc0Rt4IrfLGPe7X8hKk+szDkSqSAHru3Ovn/1YgRFPLN0oBdBHgoNt\nIhw95EQzTHvfZblHkQpFgVQPm/thX0BNJ21UA1aZeT3L2gFPE0ZpO603QhYIyc/T\nZAR/7t+WWDBEoBVMkdxDfOvToc52RU37p0llQnh8rnVlq+uhPyhYC9/BEfyQY89+\nda7jCv7rAgMBAAECggEABZqWI9AnTbx8alaVfNz/guZquT4/5DrZqd4UCa8zFwDy\nS9pFbHpUBNjIGeX6RGEcE/Wi1+wpPBQb49nLQsYGakxQawVuXfHyt+6Moz0b2T+8\nGZaQBxeu4Bbf7RugD9uXkFdhZMzdQ+YBIQM5kSOUK77g1T8VyR+sWOEJ6clupiwm\npVwGVwXFLVp1KRa8lVXvJs8xWNn6OLLszNWo2ph/4sNTZ3N0J5FxwUZ7E1xc1VwL\nm1J03P5FZWQVBbA6Y0AP1xP+gd3E0L4Whnmp9zjQu2IiqR4tXUBK+xSNFjuA6RMC\nSmwJEEyr5ueobn2MQqGRAOvxaao24UYTXrAcHqOk0QKBgQD1Pj0ik3rQvMTm6OTQ\nHGSx6ZGizCa3swHs32p8yK4okjFOhgcXGE/wLM38L5gtR5xjuHdeyoISWMqt8JmP\noVaw5keWcQme7vw4K9xTCCcqC6hERMbomNhILqKS386ciAGD+oDvEoLRLiD9IW/2\n02mOIuzOYRFx5Syn1FP5Hin8gwKBgQDA8Dig2+ib2E1y8Drll4TMCjdb2dUqh7qA\nKrX89gDWBfVn/7eVClRizAMMZZAVgypzh+y3IJ0slxH4oYAUd7Ii9P72+CyGPNv8\n2Rurr1ZWkB2Oj0PrMouNuGhvAvOkx36/5k9Cs+0bcacxpP5nckDXmZ8W1jGv+AIe\nrSl3Dru3eQKBgFZc55yQgRSXFWQXqdRb214H2cCR0iSoxknLV62/4gzphrGXY1HP\nvv7eWF+xxw5TBJDdejQIbovVdvKQIxPAhk3fmmAxSGkO0gVZ9MnMujYFSulXqxBo\nGuo4egntBM582sPGaLdINodBjl518v7h7m8ef3QiHMmWIgasMDIvXCvPAoGBAJn7\nHjbDS1GVv7oLn/W8h2+Qd74Gi+n1iRLhA31vmBs3hjQKEioQpGh1CbnLFMMWe7rY\nsEM29DmyF9WmjuHG5ZSgkxvn1SENUUTqwPq0ZOORAQXVsQ70uAvTMQXoBSttS+s7\nk+ZYUtOkURt94swMk1N+d0lyiRU3ifmRmZY7W/WBAoGBAJofy0kcVPzipnEZICGM\njUfYRY6Q/dcos+vrZqWTgHKzcI9fSdZ+787c/mJ6UGGibBvuFLE6s41LaXJ/UHza\n5C+Er3EajFDQ5x1AY25FHSl8zu4FzM/VWSPojI/UOdxM8gPUB+KhFvwaAs8FRIuO\nfDcwWocD6W/cbyEGYAZvnuSI\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbotfoodappp@chatbotfoodapp-ht9l.iam.gserviceaccount.com",
+  "client_id": "106598419901378383114",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbotfoodappp%40chatbotfoodapp-ht9l.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
